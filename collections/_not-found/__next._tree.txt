@@ -1,4 +1,4 @@
-:HL["/amc-receivables/collections/_next/static/chunks/1kf6acnloeabw.css","style"]
+:HL["/amc-receivables/collections/_next/static/chunks/1-n2_fbxm27xc.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"33meLwTDaypJKOSF6z_68","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"YiMe8jxJlbOIyYMph6P0u","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

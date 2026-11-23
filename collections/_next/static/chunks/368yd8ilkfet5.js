@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,19557,(e,t,o)=>{t.exports={sites:[],months:[],invoices:[],payments:[],generatedAt:null}}]);

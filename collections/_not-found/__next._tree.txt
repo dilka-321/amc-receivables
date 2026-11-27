@@ -1,4 +1,4 @@
 :HL["/amc-receivables/collections/_next/static/chunks/0k1-uk9uqdlqg.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"X2WLT0Ii_IL7LKo5DXuwd","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"TL0L3T5pp-6li3mfDZtDH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
